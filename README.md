@@ -3,4 +3,4 @@ Used technologies:
  - Java (Struts Framework)
  - HTML/CSS
  - BootStrap
- - JavaScript (Core,SrollReveal)
+ - JavaScript (Core, ScrollReveal)
